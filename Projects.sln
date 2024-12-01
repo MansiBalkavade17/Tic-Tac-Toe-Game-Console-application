@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{B5759407-72EC-4989-AF0F-B8E3486FFE01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToe", "TicTacToe\TicTacToe.csproj", "{384021C9-5A0A-40D3-A541-52E853CE856C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5759407-72EC-4989-AF0F-B8E3486FFE01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5759407-72EC-4989-AF0F-B8E3486FFE01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5759407-72EC-4989-AF0F-B8E3486FFE01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5759407-72EC-4989-AF0F-B8E3486FFE01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{384021C9-5A0A-40D3-A541-52E853CE856C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{384021C9-5A0A-40D3-A541-52E853CE856C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{384021C9-5A0A-40D3-A541-52E853CE856C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{384021C9-5A0A-40D3-A541-52E853CE856C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {657690EA-979B-421B-9C73-ED6E943C2927}
+	EndGlobalSection
+EndGlobal
